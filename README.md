@@ -18,6 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+# Developed by:TIMMAPURAM YOGEESWAR
+# Regsiter No:212223230233
+
+surya_ball=input()
+vijay_ball=input()
+temp=surya_ball
+surya_ball=vijay_ball
+vijay_ball=temp
+print("Swapped values are:",surya_ball,vijay_ball)
+```
+## OUTPUT
+
+![image](https://github.com/user-attachments/assets/ae047fde-d0df-4a0a-92af-12ab087bf157)
 
 
 
